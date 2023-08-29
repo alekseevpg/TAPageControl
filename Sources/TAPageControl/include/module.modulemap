@@ -1,0 +1,4 @@
+
+module TAPageControl {
+    header "TAPageControl.h"
+}
